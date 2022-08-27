@@ -14,7 +14,7 @@
 
  if (process.argv.length === 5) {
    platform = process.argv[3]
-   nb_items_to_collect = 4
+   nb_items_to_collect = process.argv[4]
  }
 
   fs.mkdir(platform, () => {});
