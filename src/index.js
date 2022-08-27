@@ -45,7 +45,5 @@
           })
         })
       })
-
-      return start_at + nb_items_per_page;
     })
   }
