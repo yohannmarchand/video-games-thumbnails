@@ -1,0 +1,16 @@
+{
+  "name": "video-games-thumbnail",
+  "version": "1.0.0",
+  "description": "Get video games thumbnails",
+  "main": "src/index.js",
+  "author": "Yohann Marchand",
+  "license": "MIT",
+  "scripts": {
+    "fetch": "node src/index.js ${0} ${1}"
+  },
+  "dependencies": {
+    "axios": "^0.27.2",
+    "jsdom": "^20.0.0",
+    "xhr2": "^0.2.1"
+  }
+}
