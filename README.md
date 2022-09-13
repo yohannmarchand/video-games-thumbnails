@@ -2,11 +2,13 @@
 
 # Need 
 `yarn`
+
 `node`
 
 # Command
 
 `yarn install`
+
 `yarn fetch "plateform" "nb_items"`
 
 
