@@ -1,9 +1,8 @@
 # Video-games-thumbnails
 
 # Need 
-`yarn`
-
-`node`
+- `yarn`
+- `node`
 
 # Command
 
